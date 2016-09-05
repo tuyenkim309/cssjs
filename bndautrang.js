@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://batdongsanhungthinh.co/can-ho-moonlight-residences/' target='_blank'><img src='http://batdongsanhungthinh.co/wp-content/uploads/2016/08/phoi-canh-du-an-moonlight-residences.jpg' width='500px'/><br/>căn hộ moonlight-residences</a>. Giá chỉ từ 1.1 tỷ/căn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
